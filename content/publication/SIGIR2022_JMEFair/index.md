@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2205.00048.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,8 +61,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  focal_point: ""
-  preview_only: False
+  caption: ''
+  focal_point: Center
+  preview_only: false
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   
 
