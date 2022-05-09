@@ -27,22 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Affective Computing
-    tag: Affective Computing
-  - name: Social Learning
-    tag: Social Learning
-  - name: Multi-Agent
-    tag: Multi-Agent
-  - name: Emergent Complexity
-    tag: Emergent Complexity
-  - name: Cooperation
-    tag: Cooperation
-  - name: Communication and Language
-    tag: Communication and Language
-  - name: Human-AI Interaction
-    tag: Human-AI Interaction
-  - name: Generalization
-    tag: Generalization
+  - name: Fairness
+    tag: Fairness
+  - name: Knowledge-enhanced
+    tag: Knowledge-enhanced
+  - name: Metric-Analysis
+    tag: Metric-Analysis
+  - name: Recommendation
+    tag: Recommendation
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
