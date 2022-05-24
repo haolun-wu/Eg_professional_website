@@ -74,9 +74,9 @@ email: "haolun.wu@mail.mcgill.ca; haolun.wu@mila.quebec"
 highlight_name: true
 ---
 
-I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu). I spent my first 18 years at this "Land of Abundance" and then traveled to different places. 
-I am currently a Ph.D. student at McGill and MILA supervied by [Prof. Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/). 
-My research interests include: Information Retrieval, Recommender System, Fairness, Explainability, Causal Reasoning, etc.
+I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu). I spent my first 18 years at this "Land of Abundance" in China and then traveled to different places around the world. 
+Currently, I am a Ph.D. student at McGill and MILA supervied by [Prof. Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/). 
+My research interests include: Information Retrieval, Recommender System, Fairness, Interpretability, Reasoning, etc.
 I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
 
 
