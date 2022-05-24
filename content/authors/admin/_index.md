@@ -74,9 +74,11 @@ email: "haolun.wu@mail.mcgill.ca; haolun.wu@mila.quebec"
 highlight_name: true
 ---
 
-I am a Ph.D. student at McGill and MILA supervied by [Prof. Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/). 
+I was born and grew up in Chengdu, China. I spent my first 18 years there and then traveled to different places. 
+I am currently a Ph.D. student at McGill and MILA supervied by [Prof. Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/). 
 My research interests include: Information Retrieval, Recommender System, Fairness, Explainability, Causal Reasoning, etc.
 I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
+
 
 
 {{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/HaolunWu_CV.pdf" "newtab" >}}here{{< /staticref >}}.
