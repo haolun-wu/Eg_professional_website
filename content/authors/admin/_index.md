@@ -22,7 +22,7 @@ bio: My research interests include distributed IR, RecSys, FATE, etc. I am commi
 interests:
   - Information Retrieval
   - Recommender System
-  - FATE (Fairness, Accountability, Transparency, and Ethics)
+  - Fairness
   - Explainability
   - Causal Reasoning
 
