@@ -40,4 +40,5 @@ design:
   #   4 = Citation (publication only)
   view: 2 -->
 ---
-* Co-organizer of the [ICML 2018 Artificial Intelligence in Affective Computing (AffComp) workshop](https://icml.cc/Conferences/2018/Schedule?showEvent=3304).
+* Reviewer: AAAI 2022, KDD 2022, TKDD 2022
+* Session Chair: SIGIR 2022 (Session: Collaborative Filtering)
