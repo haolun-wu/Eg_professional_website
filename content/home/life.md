@@ -8,7 +8,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 8
+weight: 80
 
 title: A Rich Life
 subtitle:
