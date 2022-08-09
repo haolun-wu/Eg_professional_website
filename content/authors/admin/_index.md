@@ -20,7 +20,8 @@ bio: My research interests include distributed IR, RecSys, FATE, etc. I am commi
 
 # Interests to show in About widget
 interests:
-  - Search, Recommendation, and Information Retrieval
+  - Search and Recommendation
+  - Information Retrieval
   - Fairness and Trustworthy AI
   - Continual Learning
 
