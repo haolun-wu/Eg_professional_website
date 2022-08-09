@@ -20,18 +20,16 @@ bio: My research interests include distributed IR, RecSys, FATE, etc. I am commi
 
 # Interests to show in About widget
 interests:
-  - Information Retrieval
-  - Recommender System
-  - Fairness
-  - Explainability
-  - Causal Reasoning
+  - Search, Recommendation, and Information Retrieval
+  - Fairness and Trustworthy AI
+  - Continual Learning
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: McGill University & MILA
-    year: 2021-2024
+    year: 2021-2025
   - course: M.Sc. in Computer Science
     institution: McGill University & MILA
     year: 2019-2021
@@ -75,7 +73,7 @@ highlight_name: true
 ---
 
 I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu). I spent my first 18 years at this "Land of Abundance" in China and then traveled to different places around the world. 
-Currently, I am a Ph.D. student at McGill and MILA. I work with [Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/) (FCAE, FIEEE) and [Laurent Charlin](http://www.cs.toronto.edu/%7Elcharlin/) (Canadian CIFAR AI Chair). 
+Currently, I am a Ph.D. student at McGill and MILA. I work with [Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/) (Fellow of Canadian Academy of Engineering, Fellow of IEEE) and [Laurent Charlin](http://www.cs.toronto.edu/%7Elcharlin/) (Canadian CIFAR AI Chair). 
 My research interests include: Information Retrieval, Recommender System, Fairness, Continual Learning, etc.
 I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
 
