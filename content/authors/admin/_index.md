@@ -75,8 +75,8 @@ highlight_name: true
 ---
 
 I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu). I spent my first 18 years at this "Land of Abundance" in China and then traveled to different places around the world. 
-Currently, I am a Ph.D. student at McGill and MILA supervied by [Prof. Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/). 
-My research interests include: Information Retrieval, Recommender System, Fairness, Interpretability, Reasoning, etc.
+Currently, I am a Ph.D. student at McGill and MILA. I work with [Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/) (FCAE, FIEEE) and [Laurent Charlin](http://www.cs.toronto.edu/%7Elcharlin/) (Canadian CIFAR AI Chair). 
+My research interests include: Information Retrieval, Recommender System, Fairness, Continual Learning, etc.
 I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
 
 
