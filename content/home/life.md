@@ -40,11 +40,7 @@ design:
   #   4 = Citation (publication only)
   view: 2 -->
 ---
-* Together with Eugene Vinitsky, I run the [Berkeley Multi-Agent Reinforcement Learning Seminar](https://sites.google.com/corp/view/berkeleymarl/home), which includes participants from Berkeley, Stanford, Google Brain, OpenAI, Facebook AI Research (FAIR), and other universities. 
-* Co-organizer of the [NeurIPS 2021 Cooperative AI workshop](https://www.cooperativeai.com/neurips-2021/workshop-information). 
-  * As part of the workshop, I planned and implented a [mentorship program](https://www.cooperativeai.com/neurips-2021/workshop-information#h.ssihuuiopnhu) to provide feedback on submissions to students from underrepresented groups.
-* Panelist and moderator for the [NeurIPS 2020 Cooperative AI workshop](https://www.cooperativeai.com/neurips-2020/speakers).
-* Co-organizer of the [ICLR 2020 Climate Change for Artificial Intelligence (CCAI) workshop](https://www.climatechange.ai/events/iclr2020.html).
-* Former [Social Media Lead for CCAI](https://www.climatechange.ai/about#people).
-* Co-organizer of the [NeurIPS 2019 Emergent Communication (EmeComm) workshop](https://sites.google.com/corp/view/emecom2019/home).
-* Co-organizer of the [ICML 2018 Artificial Intelligence in Affective Computing (AffComp) workshop](https://icml.cc/Conferences/2018/Schedule?showEvent=3304).
+* I am a certificated **clarinet player**. I was a member of Musicians Association of Sichuan, China. My advisor
+was [*Yi Zhu*](https://baike.baidu.com/item/%E6%9C%B1%E6%AF%85/3178725), who is now the Deputy Director of the Music Department of Sichuan University.
+* I am also a master in **Chinese Calligraphy**. My advisor was [*Jialin Zheng*](https://baike.baidu.com/item/%E9%83%91%E5%AE%B6%E6%9E%97/8612136), who is now a Vice Chairman of
+Sichuan Calligraphers Association and Vice Chairman of Chengdu Calligraphers Association.
