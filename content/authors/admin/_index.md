@@ -16,7 +16,7 @@ organizations:
     url: https://mila.quebec/en/person/haolun-wu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed IR, RecSys, FATE, etc. I am commited to using AI techniques for benefiting data-driven decision-making in human lives.
+bio: My research interests include Information Retrieval, RecSys, FATE, Continual Learning etc. I am commited to using AI techniques for benefiting data-driven decision-making in human lives.
 
 # Interests to show in About widget
 interests:
