@@ -16,7 +16,7 @@ organizations:
     url: https://mila.quebec/en/person/haolun-wu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Information Retrieval, RecSys, FATE, Continual Learning etc. I am commited to using AI techniques for benefiting data-driven decision-making in human lives.
+bio: My research interests include IR, RecSys, FATE, Continual Learning etc. I am commited to using AI techniques for benefiting data-driven decision-making in human lives.
 
 # Interests to show in About widget
 interests:
@@ -74,7 +74,8 @@ highlight_name: true
 ---
 
 I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu). I spent my first 18 years at this "Land of Abundance" in China and then traveled to different places around the world. 
-Currently, I am a Ph.D. student at McGill and MILA. I work with [Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/) (Fellow of Canadian Academy of Engineering, Fellow of IEEE) and [Laurent Charlin](http://www.cs.toronto.edu/%7Elcharlin/) (Canadian CIFAR AI Chair). 
+Currently, I am a Ph.D. student at McGill and MILA. I am supervised by [Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/) and [Fernando Diaz](https://841.io/).
+I also work with [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/) and [Golnoosh Farnadi](https://gfarnadi.github.io/), who are both in my Ph.D. supervisory committee.
 My research interests include: Information Retrieval, Recommender System, Fairness, Continual Learning, etc.
 I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
 
