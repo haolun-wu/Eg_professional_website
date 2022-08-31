@@ -25,7 +25,7 @@ experience:
   - title: Support Researcher, PhD Intern
     company: Huawei Noah's Ark Lab
     company_url: ''
-    company_logo: org-gc
+    company_logo: noah
     location: Montreal
     date_start: '2021-09-01'
     date_end: '2022-06-30'
