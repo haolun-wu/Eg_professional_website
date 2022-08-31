@@ -68,7 +68,7 @@ design:
 - 2019 Excellent Graduation Thesis, Northeastern University
 - 2016-2019 Outstanding Student, Northeastern University
 - 2017 HUAWEI Scholarship, Huawei Technologies Co., Ltd.
-- 2017 Second Prize, CUMCM (Contemporary Undergraduate Mathematical Contest in Modelling)
-- 2017 MCM/ICM Honorable Prize, COMAP (Consortium for Mathematics and Its Application)
+- 2017 First Prize, CUMCM (Contemporary Undergraduate Mathematical Contest in Modelling)
+- 2017 MCM/ICM Meritorious Winner, COMAP (Consortium for Mathematics and Its Application)
 - 2016 Yao Tianshun Scholarship (2 out of 250 students), Northeastern University
 - 2014 First Prize (rank 18th in Sichuan Province), CMS (Chinese Mathematical Association)
