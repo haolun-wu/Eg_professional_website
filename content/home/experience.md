@@ -31,7 +31,8 @@ experience:
     location: Mountain View
     date_start: '2021-09'
     date_end: '2022-12'
-    description: Upcoming
+    description: |1-
+        * Upcoming
   - title: Support Researcher, PhD Intern
     company: Huawei Noah's Ark Lab
     company_url: ''
