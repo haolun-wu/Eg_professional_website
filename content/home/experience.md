@@ -29,10 +29,8 @@ experience:
     company_url: ''
     company_logo: Google-research
     location: Mountain View
-    date_start: '2021-09'
-    date_end: '2022-12'
-    description: |1-
-        * Upcoming
+    date_start: '2021-09-01'
+    date_end: '2022-12-01'
   - title: Support Researcher, PhD Intern
     company: Huawei Noah's Ark Lab
     company_url: ''
