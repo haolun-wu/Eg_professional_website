@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: noah
     location: Montreal
-    date_start: '2021-09-01'
+    date_start: '2021-06-01'
     date_end: '2022-06-30'
     description: |2-
         Responsibilities include:
