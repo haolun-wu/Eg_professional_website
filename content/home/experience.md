@@ -1,8 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-active: true
-widget: pages
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -28,8 +27,8 @@ experience:
     company_url: ''
     company_logo: Google-research
     location: Mountain View
-    date_start: ''
-    date_end: ''
+    date_start: '2022-09'
+    date_end: '2022-12'
   - title: Support Researcher, PhD Intern
     company: Huawei Noah's Ark Lab
     company_url: ''
