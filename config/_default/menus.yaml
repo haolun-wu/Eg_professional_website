@@ -4,24 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-#  - name: Experience
-#    url: '#experience'
-#    weight: 5
   - name: Awards
     url: '#awards'
-    weight: 10
+    weight: 5
 #  - name: Press
 #    url: '#press'
 #    weight: 7
   - name: Featured
     url: '#featured'
-    weight: 15
+    weight: 10
   - name: Publications
     url: '#projects'
     weight: 20
   - name: Topics
     url: '#tags'
-    weight: 25
+    weight: 30
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
