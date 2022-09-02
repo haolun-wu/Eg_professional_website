@@ -8,7 +8,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 40
 
 title: Experience
 subtitle:
@@ -28,12 +28,8 @@ experience:
     company_url: ''
     company_logo: Google-research
     location: Mountain View
-    date_start: '2022 Fall'
+    date_start: ''
     date_end: ''
-
-[//]: # (    description: |2-)
-
-[//]: # (        Under J-1 Application)
   - title: Support Researcher, PhD Intern
     company: Huawei Noah's Ark Lab
     company_url: ''
