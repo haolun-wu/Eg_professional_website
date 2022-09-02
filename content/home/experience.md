@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 10
 
 title: Experience
 subtitle:
@@ -22,6 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Intern
+    company: Google Research
+    company_url: ''
+    company_logo: noah
+    location: Mountain View
+    date_start: 'Coming soon.'
+    date_end: 'Under J-1 application'
   - title: Support Researcher, PhD Intern
     company: Huawei Noah's Ark Lab
     company_url: ''
