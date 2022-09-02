@@ -27,8 +27,9 @@ experience:
     company_url: ''
     company_logo: noah
     location: Mountain View
-    date_start: 'Coming soon.'
-    date_end: 'Under J-1 application'
+    date_start: '2022-09'
+    date_end: '2022-12'
+
   - title: Support Researcher, PhD Intern
     company: Huawei Noah's Ark Lab
     company_url: ''
