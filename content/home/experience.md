@@ -1,8 +1,8 @@
 ---
+active: true
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 # widget: experience
-active: true
 widget: pages
 
 # This file represents a page section.
