@@ -39,8 +39,6 @@ experience:
     date_start: '2021-06-01'
     date_end: '2022-06-30'
     description: |2-
-        Responsibilities include:
-        
         * Conduct one project on efficiently training the implicit feedback data for recommendation through adaptively learning the data importance.
         * Conduct one project on efficiently utilizing auxiliary information in recommendation through self-supervised learning and contrastive alignment.
 
