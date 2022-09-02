@@ -29,7 +29,7 @@ experience:
     company_url: ''
     company_logo: Google-research
     location: Mountain View
-    date_start: '2021-09-01'
+    date_start: '2022-09-01'
     date_end: '2022-12-01'
     description: |1-
         * Research on topics (1) Multi-interest embedding, (2) Uncertainty embedding, and (3) Provider fairness in recommendation.
