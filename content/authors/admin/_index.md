@@ -24,6 +24,7 @@ interests:
   - Information Retrieval
   - Fairness and Trustworthy AI
   - Continual Learning
+  - Bandit Algorithm
 
 # Education to show in About widget
 education:
