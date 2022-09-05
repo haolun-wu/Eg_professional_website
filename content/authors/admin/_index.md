@@ -6,7 +6,7 @@ title: Haolun Wu
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Computer Science
+role: Ph.D. Student in CS, Research Intern @Google Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,6 +14,8 @@ organizations:
     url: https://www.cs.mcgill.ca/
   - name: MILA - Quebec AI Institue
     url: https://mila.quebec/en/person/haolun-wu/
+  - name: Google Research
+    url: https://research.google/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include IR, RecSys, FATE, Continual Learning etc. I am commited to using AI techniques for benefiting data-driven decision-making in human lives.
