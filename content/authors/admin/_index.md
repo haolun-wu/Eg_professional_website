@@ -6,14 +6,14 @@ title: Haolun Wu
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in CS, Research Intern @Google Research
+role: Ph.D. Candidate in CS, Research Intern @Google Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: McGill University
-    url: https://www.cs.mcgill.ca/
   - name: MILA - Quebec AI Institue
     url: https://mila.quebec/en/person/haolun-wu/
+  - name: McGill University
+    url: https://www.cs.mcgill.ca/
   - name: Google Research
     url: https://research.google/
 
@@ -32,10 +32,10 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: McGill University & MILA
+    institution: MILA & McGill University
     year: 2021-2025
   - course: M.Sc. in Computer Science
-    institution: McGill University & MILA
+    institution: MILA & McGill University
     year: 2019-2021
   - course: B.Eng. in Computer Science
     institution: Northeastern University
@@ -77,8 +77,8 @@ highlight_name: true
 ---
 
 I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu). I spent my first 18 years at this "Land of Abundance" in China and then traveled to different places around the world. 
-Currently, I am a Ph.D. student at McGill and MILA. I am supervised by [Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/) and [Fernando Diaz](https://841.io/).
-I also work with [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/) and [Golnoosh Farnadi](https://gfarnadi.github.io/), who are both in my Ph.D. supervisory committee.
+
+Currently, I am a Ph.D. candidate at MILA and McGill. I work with [Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/) (Fellow of Canadian Academy of Engineering), [Fernando Diaz](https://841.io/) (CIFAR AI Chair, MILA Core Industrial Member), and [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/) (CIFAR AI Chair, MILA Core Academic Member).
 My research interests include: Information Retrieval, Recommender System, Fairness, Continual Learning, etc.
 I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
 
