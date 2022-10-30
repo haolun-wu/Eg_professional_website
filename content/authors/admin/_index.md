@@ -31,7 +31,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Ph.D. in Computer Science
     institution: MILA & McGill University
     year: 2021-2025
   - course: M.Sc. in Computer Science
