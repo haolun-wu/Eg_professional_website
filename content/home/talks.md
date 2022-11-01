@@ -1,14 +1,14 @@
 ---
-active: false
+active: true
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 40
 
 title: 'Featured Talks'
 subtitle:
@@ -17,7 +17,7 @@ content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 10
+  count: 5
   # Filter on criteria
   filters:
     author: ""
@@ -39,6 +39,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   #   5 = Youtube (embeds videos)
-  view: 5
+  view: 5 --->
 ---
-
+* **Reviewer**:
+    - AAAI 2022, KDD 2022, TKDD 2022
