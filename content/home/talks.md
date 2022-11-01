@@ -39,7 +39,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   #   5 = Youtube (embeds videos)
-  view: 5 --->
+  view: 5
 ---
 * **Reviewer**:
     - AAAI 2022, KDD 2022, TKDD 2022
