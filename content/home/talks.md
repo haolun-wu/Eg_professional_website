@@ -41,5 +41,3 @@ design:
   #   5 = Youtube (embeds videos)
   view: 5
 ---
-* **Reviewer**:
-    - AAAI 2022, KDD 2022, TKDD 2022
