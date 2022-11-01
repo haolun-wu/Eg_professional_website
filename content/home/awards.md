@@ -64,7 +64,7 @@ design:
 
 - 2022 SIGIR Student Travel Grant.
 - 2021 Apple Scholars PhD Fellowship Nominee (1 out of 3 students at McGill University)
-- 2020 Grad Excellence Award, McGill University
+- 2020-2022 Grad Excellence Award, McGill University
 - 2019 Excellent Graduation Thesis, Northeastern University
 - 2016-2019 Outstanding Student, Northeastern University
 - 2017 HUAWEI Scholarship, Huawei Technologies Co., Ltd.
