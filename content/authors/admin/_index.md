@@ -22,7 +22,7 @@ bio: My research interests include IR, RecSys, FATE, Continual Learning etc. I a
 
 # Interests to show in About widget
 interests:
-  - Recommendation and Information Retrieval
+  - Recommendation and Retrieval
   - Ranking and Matching
   - Fairness and Trustworthy ML
   - Continual Learning
