@@ -10,7 +10,7 @@ role: Ph.D. Candidate in CS, Research Intern @Google Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: MILA - Quebec AI Institue
+  - name: Mila - Quebec AI Institue
     url: https://mila.quebec/en/person/haolun-wu/
   - name: McGill University
     url: https://www.cs.mcgill.ca/
@@ -22,9 +22,9 @@ bio: My research interests include IR, RecSys, FATE, Continual Learning etc. I a
 
 # Interests to show in About widget
 interests:
-  - Search and Recommendation
-  - Information Retrieval
-  - Fairness and Trustworthy AI
+  - Recommendation and Information Retrieval
+  - Ranking and Matching
+  - Fairness and Trustworthy ML
   - Continual Learning
   - Bandit Algorithm
 
@@ -32,10 +32,10 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Science
-    institution: MILA & McGill University
+    institution: Mila & McGill University
     year: 2021-2025
   - course: M.Sc. in Computer Science
-    institution: MILA & McGill University
+    institution: Mila & McGill University
     year: 2019-2021
   - course: B.Eng. in Computer Science
     institution: Northeastern University
@@ -78,7 +78,7 @@ highlight_name: true
 
 I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu). I spent my first 18 years at this "Land of Abundance" in China and then traveled to different places around the world. 
 
-Currently, I am a Ph.D. candidate at MILA and McGill. I work with [Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/) (Fellow of Canadian Academy of Engineering), [Fernando Diaz](https://841.io/) (CIFAR AI Chair, MILA Core Industrial Member), and [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/) (CIFAR AI Chair, MILA Core Academic Member).
+Currently, I am a Ph.D. candidate at Mila & McGill. I am honored to work with [Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/) (Fellow of Canadian Academy of Engineering), [Fernando Diaz](https://841.io/) (CIFAR AI Chair, MILA Core Industrial Member), and [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/) (CIFAR AI Chair, MILA Core Academic Member).
 My research interests include: Information Retrieval, Recommender System, Fairness, Continual Learning, etc.
 I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
 
