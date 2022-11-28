@@ -1,29 +1,27 @@
 ---
-title: "Intent-aware Multi-source Contrastive Alignment for Tag-enhanced Recommendation"
+title: "Joint Multisided Exposure Fairness for Recommendation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Yingxue Zhang
+- Bhaskar Mitra
 - Chen Ma
-- Wei Guo
-- Ruiming Tang
+- Fernando Diaz
 - Xue Liu
-- Mark Coates
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-publishDate: "2023-01-01T00:00:00Z"
-# doi: "10.1145/3477495.3532007"
+date: "2022-04-01T00:00:00Z"
+doi: "10.1145/3477495.3532007"
 
 # Schedule page publish date (NOT publication's date).
 
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2022-04-01T00:00:00Z"
 
 
 # Publication type.
@@ -33,15 +31,15 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *the 39th IEEE International Conference on Data Engineering*
-publication_short: In *ICDE 2023*
+publication: In *the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval*
+publication_short: In *SIGIR 2022*
 
-abstract: To offer accurate and diverse recommendation services, recent methods use auxiliary information to foster the learning process of user and item representations. Many stateof-the-art (SOTA) methods fuse different sources of information (user, item, knowledge graph, tags, etc.) into a graph and use Graph Neural Networks (GNNs) to introduce the auxiliary information through the message passing paradigm. In this work, we seek an alternative framework that is light and effective through self-supervised learning across different sources of information, particularly for the commonly accessible item tag information. We use a self-supervision signal to pair users with the auxiliary information (tags) associated with the items they have interacted with before. To achieve the pairing, we create a proxy training task. For a given item, the model predicts which is the correct pairing between the representations obtained from the users that have interacted with this item and the tags assigned to it. This design provides an efficient solution, using the auxiliary information directly to enhance the quality of user and item embeddings. User behavior in recommendation systems is driven by the complex interactions of many factors behind the users’ decision-making processes. To make the pairing process more fine-grained and avoid embedding collapse, we propose a user intent-aware self-supervised pairing process where we split the user embeddings into multiple sub-embedding vectors. Each sub-embedding vector captures a specific user intent via self-supervised alignment with a particular cluster of tags. We integrate our designed framework with various recommendation models, demonstrating its flexibility and compatibility. Through comparison with numerous SOTA methods on seven real-world datasets, we show that our method can achieve better performance while requiring less training time. This indicates the potential of applying our approach on web-scale datasets.
+abstract: Prior research on exposure fairness in the context of recommender systems has focused mostly on disparities in the exposure of individual or groups of items to individual users of the system. The problem of how individual or groups of items may be systemically under or over exposed to groups of users, or even all users, has received relatively less attention. However, such systemic disparities in information exposure can result in observable social harms, such as withholding economic opportunities from historically marginalized groups *allocative harm* or amplifying gendered and racialized stereotypes *representational harm*. Previously, Diaz et al. developed the *expected exposure* metric---that incorporates existing user browsing models that have previously been developed for information retrieval---to study fairness of content exposure to individual users. We extend their proposed framework to formalize a family of exposure fairness metrics that model the problem jointly from the perspective of both the consumers and producers. Specifically, we consider group attributes for both types of stakeholders to identify and mitigate fairness concerns that go beyond individual users and items towards more systemic biases in recommendation. Furthermore, we study and discuss the relationships between the different exposure fairness dimensions proposed in this paper, as well as demonstrate how stochastic ranking policies can be optimized towards said fairness goals.
 
 # Summary. An optional shortened abstract.
-summary: In this work, we seek a framework that is light and effective through self-supervised learning across different sources of information, particularly for the commonly accessible item tag information, to offer accurate recommendations. We construct a self-supervision signal to better fuse the multi-source information. We further extend it as an intent-aware self-supervised pairing process to distinguish different user interests behind the users’ decision-making processes.
+summary: Prior works on fairness in recommendation mostly only mode the fairness of different stakeholders seperately. In our work, we first model the interactional behavoir between the consumer side and the producer side. We care not only whether the content is over/under exposed but also to whom and in what context.
 
-tags: [Multi-interest, Recommendation, Contrastive Learning]
+tags: [Fairness, Multisided, Recommendation, Metric Analysis]
 
 # Display this page in the Featured widget?
 featured: true
@@ -51,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2211.06370.pdf'
+url_pdf: 'https://arxiv.org/pdf/2205.00048.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,13 +59,13 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
   focal_point: Center
   preview_only: false
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-
+  
 
 
 # Associated Projects (optional).
@@ -76,7 +74,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- ICDE2023_IMCAT
+- SIGIR2022_JMEFair
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
