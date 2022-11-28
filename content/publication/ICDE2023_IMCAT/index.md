@@ -18,8 +18,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-04-01T00:00:00Z"
-doi: "10.1145/3477495.3532007"
+publishDate: "2022-10-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 
