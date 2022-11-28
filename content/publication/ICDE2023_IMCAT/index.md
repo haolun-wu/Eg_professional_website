@@ -23,7 +23,7 @@ doi: "10.1145/3477495.3532007"
 
 # Schedule page publish date (NOT publication's date).
 
-publishDate: "2022-04-01T00:00:00Z"
+publishDate: "2022-10-01T00:00:00Z"
 
 
 # Publication type.
