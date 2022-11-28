@@ -76,7 +76,7 @@ email: "haolun.wu@mail.mcgill.ca; haolun.wu@mila.quebec"
 highlight_name: true
 ---
 
-I was born in [Chengdu](https://en.wikipedia.org/wiki/Chengdu), one of the most prosperous cities in China, with inhabitation hisroty more than 4,000 years. I spent my first 18 years in my hometown and then traveled to different places around the world. 
+I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu), one of the most prosperous cities in China, which has a 4,000-year history of human habitation. I spent my first 18 years in my hometown and then traveled to different places around the world. 
 
 Currently, I am a Ph.D. candidate at Mila & McGill. I am honored to work with [Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/) (Fellow of Canadian Academy of Engineering), [Fernando Diaz](https://841.io/) (CIFAR AI Chair, MILA Core Industrial Member), and [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/) (CIFAR AI Chair, MILA Core Academic Member).
 My research interests include: Information Retrieval, Recommender System, Fairness, Continual Learning, etc.
