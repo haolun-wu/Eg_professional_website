@@ -41,7 +41,7 @@ abstract: To offer accurate and diverse recommendation services, recent methods 
 # Summary. An optional shortened abstract.
 summary: In this work, we seek a framework that is light and effective through self-supervised learning across different sources of information, particularly for the commonly accessible item tag information, to offer accurate recommendations. We construct a self-supervision signal to better fuse the multi-source information. We further extend it as an intent-aware self-supervised pairing process to distinguish different user interests behind the users’ decision-making processes.
 
-tags: [Fairness, Multisided, Recommendation, Metric Analysis]
+tags: [Multi-interest, Recommendation, Contrastive Learning]
 
 # Display this page in the Featured widget?
 featured: true
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2205.00048.pdf'
+url_pdf: 'https://arxiv.org/pdf/2211.06370.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
