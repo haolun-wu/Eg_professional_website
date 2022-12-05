@@ -64,7 +64,7 @@ url_video: ''
 image:
    caption: ''
    focal_point: Center
-   preview_only: false
+   preview_only: true
 
 
 # Associated Projects (optional).

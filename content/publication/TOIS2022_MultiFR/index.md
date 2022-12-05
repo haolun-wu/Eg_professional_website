@@ -63,7 +63,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: Center
-  preview_only: false
+  preview_only: true
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   
 
