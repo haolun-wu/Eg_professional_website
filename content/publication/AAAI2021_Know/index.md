@@ -61,10 +61,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 
-image:
-   caption: ''
-   focal_point: Center
-   preview_onlyly: false
+
 
 
 # Associated Projects (optional).
